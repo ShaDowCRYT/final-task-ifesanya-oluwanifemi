@@ -10,15 +10,15 @@
 
 # Part 1: Job Preparation and Hunting
 
-## 1.1 Job Post Research
+### 1.1 Job Post Research
 
-I researched 10 Product Engineer job advertisements from companies outside Africa. I reviewed the technologies mentioned in each advertisement and considered their location and remote-work requirements.
+Checked on 12 November 2026.
 
 | No. | Company | Job Advertisement | Tools Named | Location / Eligibility |
 |---|---|---|---|---|
 | 1 | Ojin | [Product Engineer](https://job-boards.eu.greenhouse.io/ojin/jobs/4716174101) | TypeScript, React, Node.js, Python, WebRTC, WebSockets, AWS | CET ±2 hours. Lagos fits. |
 | 2 | Prezly | [Product Engineer](https://careers.prezly.com/product-engineer) | PHP, Symfony, Postgres, React, Next.js, AI coding tools | CET ±2 hours. Lagos fits. |
-| 3 | AI Scaling | [Senior Full-stack Product Engineer](https://wellfound.com/jobs/4617750-senior-full-stack-product-engineer) | React, TypeScript, Vite, React Query, Tailwind, Supabase, Postgres, Vitest, Playwright | Worldwide, with 4 hours overlapping US Eastern. |
+| 3 | AI Scaling | [Senior Full-Stack Product Engineer](https://wellfound.com/jobs/4617750-senior-full-stack-product-engineer) | React, TypeScript, Vite, React Query, Tailwind, Supabase, Postgres, Vitest, Playwright | Worldwide, 4 hours overlap with US Eastern. |
 | 4 | Awell | [Product Engineer](https://awellhealth.com/careers/product-engineer) | TypeScript, React, Next.js | Global remote, US hours. |
 | 5 | Linear | [Product Engineer](https://linear.app/careers/0c7c2e26-0a98-42cf-a47c-9a3999fb513b) | React, TypeScript, Node, GraphQL, PostgreSQL, Redis, Google Cloud | North America only. |
 | 6 | VIBOA | [Product Engineer](https://viboa.co/careers/product-engineer) | TypeScript, Next.js, React, Tailwind, Postgres, Vercel | EU only. |
@@ -27,27 +27,24 @@ I researched 10 Product Engineer job advertisements from companies outside Afric
 | 9 | Kollabit | [AI Product Engineer](https://kollabit.ca/company/careers/ai-product-engineer/) | TypeScript or Python, LLM APIs, RAG, vector databases, Vercel, Cloudflare Workers | Canada, or contract from abroad. |
 | 10 | Smart Bricks | [Product Engineer (AI)](https://smart-bricks.com/careers/product-engineer-ai) | Full-stack web apps, LLMs and AI APIs | Remote-first, depending on location. |
 
-## 1.2 Skills Gap Analysis
+### 1.1 Skills Analysis
 
-After reviewing the job advertisements, I identified 10 important skills and technologies relevant to the Product Engineer role. I assessed my current ability in each area and identified where I need stronger evidence.
+| No. | Skill / Tool | Posts naming it | My Assessment | Current Evidence / Gap | Where I will prove it |
+|---|---|---|---|---|---|
+| 1 | End-to-end ownership | 10/10 | I can do this but have no proof | My projects show parts of the lifecycle. | Rota, Matinee |
+| 2 | Full-stack development | 9/10 | I can do this but have no proof | I need a stronger end-to-end production case study. | Rota, Matinee |
+| 3 | TypeScript | 8/10 | I can prove this | Dev and Design bootcamp assignments: [ADD LINK] | Rota, Matinee |
+| 4 | React | 7/10 | I can prove this | GObuddy and bootcamp projects: [ADD LINK] | Matinee |
+| 5 | AI tools and LLMs | 7/10 | I can do this but have no proof | I use AI tools in my workflow, but have not yet shipped an LLM feature. | Part 4 (RAG) |
+| 6 | PostgreSQL / SQL | 6/10 | I can prove this | Property Listings API with PostgreSQL and migrations: [ADD LINK] | Rota, Matinee |
+| 7 | UI/UX polish | 5/10 | I can do this but have no proof | Matinee can provide stronger evidence. | Matinee |
+| 8 | Cloud and hosting | 5/10 | I can prove this (Vercel only) | Deployed Calorie Tracker on Vercel: [ADD LINK]. No AWS or Google Cloud yet. | Rota and Matinee backends |
+| 9 | Next.js | 4/10 | I can prove this | Bootcamp projects use Next.js: [ADD LINK] | Part 4 chat app (if web) |
+| 10 | Node.js | 3/10 | I can prove this | Bootcamp project on a Node.js server: [ADD LINK] | Rota, Matinee |
 
-| No. | Skill / Tool | My Assessment | Current Evidence / Gap |
-|---|---|---|---|
-| 1 | End-to-end ownership | I can do this but have no proof | My existing projects demonstrate parts of the product development lifecycle. Rota and Matinee will provide stronger evidence. |
-| 2 | Full-stack development | I can do this but have no proof | I have frontend and backend experience, but I need a stronger end-to-end production case study. |
-| 3 | TypeScript | I can prove this | My assignments from the Dev and Design bootcamp demonstrate my TypeScript skills. |
-| 4 | React | I can prove this | GObuddy and other bootcamp projects provide evidence of my React skills. |
-| 5 | AI tools and LLMs | I can prove this | I use AI tools throughout my development workflow. |
-| 6 | PostgreSQL / SQL | I can prove this | The Property Listings API uses PostgreSQL, data migrations, and related database work. |
-| 7 | UI/UX polish | I can do this but have no proof | My existing projects demonstrate my design skills. Matinee can provide stronger evidence. |
-| 8 | Cloud and hosting (AWS, Google Cloud, Vercel) | I can prove this | I have deployed projects on Vercel, including the Calorie Tracker. |
-| 9 | Next.js | I can prove this | My existing bootcamp projects use Next.js. |
-| 10 | Node.js | I can prove this | An existing bootcamp project runs on a Node.js server. |
+### Job Hunt Tracker
 
-## 1.3 Job Hunting Tracker
-
-A separate Job Hunt Tracker is maintained to track job applications, companies, contacts, follow-ups, and weekly progress.
-
+Link (view-only): [ADD LINK WHEN READY]
 ---
 
 # Part 2: Mobile Applications
